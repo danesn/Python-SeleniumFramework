@@ -1,0 +1,7 @@
+# Ignore semua isi folder "Reports"
+Reports/*
+!Reports/.gitkeep
+
+# Ignore semua isi folder "screenshots"
+screenshots/*
+!screenshots/.gitkeep
